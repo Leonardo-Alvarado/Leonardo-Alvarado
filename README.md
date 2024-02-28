@@ -1,4 +1,4 @@
-¡Hola de nuevo! Soy @Leonardo-Alvarado, un estudiante apasionado de Tecnología de la Información y Comunicación en la Universidad Técnica Luis Vargas Torres.
+## ¡Hola de nuevo! Soy @Leonardo-Alvarado, un estudiante apasionado de Tecnología de la Información y Comunicación en la Universidad Técnica Luis Vargas Torres.
 
 ## Experiencia
 - 🎓 Actualmente cursando Ingeniería en Tecnología de la Información y Comunicación con énfasis en desarrollo de software y sistemas de información.
