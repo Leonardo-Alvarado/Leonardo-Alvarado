@@ -9,13 +9,6 @@
 - 🤖 Machine Learning: Explorando proyectos con TensorFlow y scikit-learn.
 - 🚀 Proyectos colaborativos: Participación activa en equipos de desarrollo en la universidad y hackatones.
 
-## Proyectos Destacados
-1. **Juego Educativo para Niños:**
-   - Lideré un equipo que desarrolló un juego interactivo para enseñar conceptos básicos de programación a niños. La iniciativa fue reconocida en el evento [nombre del evento] y recibimos el premio a la innovación educativa.
-
-2. **Sistema de Gestión Escolar:**
-   - Contribuí al desarrollo de un sistema de gestión escolar que mejoró eficientemente el seguimiento de las actividades académicas. Esta solución se implementó con éxito en [nombre de la institución educativa].
-
 ## Intereses
 - 🌐 Explorando nuevas tecnologías y tendencias en el mundo de la informática.
 - 📚 Leyendo sobre desarrollos recientes en inteligencia artificial y ciberseguridad.
