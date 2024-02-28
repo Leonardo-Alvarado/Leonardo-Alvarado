@@ -1,5 +1,3 @@
-# Descripción Extendida
-
 ¡Hola de nuevo! Soy @Leonardo-Alvarado, un estudiante apasionado de Tecnología de la Información y Comunicación en la Universidad Técnica Luis Vargas Torres.
 
 ## Experiencia
