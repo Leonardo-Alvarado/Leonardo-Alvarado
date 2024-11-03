@@ -2,7 +2,6 @@
 
 ## Experiencia
 - 🎓 Actualmente cursando Ingeniería en Tecnología de la Información y Comunicación con énfasis en desarrollo de software y sistemas de información.
-- 💼 Pasante en [Nombre de la Empresa], donde he trabajado en el desarrollo de aplicaciones web utilizando tecnologías como React y Node.js. He colaborado en la implementación de soluciones eficientes y participado en proyectos de innovación tecnológica.
 
 ## Habilidades
 - 💻 Desarrollo web: HTML, CSS, JavaScript (React).
